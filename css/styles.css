@@ -1,0 +1,71 @@
+* {
+  /* margin: 0;
+  padding: 0; */
+  font-family: 'Roboto', sans-serif;
+}
+.containerRedesSociales {
+  background-color: #3c2313;
+  width: 100%;
+}
+
+.containerRedesSociales h3 {
+  color: #fff;
+}
+.containerRedesSociales p {
+  color: #fff;
+}
+.textoDerechos {
+  background-color: #f0a83e;
+  color: #fff;
+  text-align: center;
+}
+.topHeader {
+  background-color: #222222;
+}
+.topHeader p {
+  color: #fff;
+}
+.topHeader ul {
+  list-style-type: none;
+  color: #fff;
+}
+.containerNav {
+  background-color: #f0a83e;
+}
+.containerNav ul {
+  list-style-type: none;
+  color: #fff;
+}
+.icon {
+  color: #fff;
+}
+.titleImage {
+  color: #3c2313;
+  font-size: 30px;
+  text-align: center;
+}
+.imageBanner {
+  width: 100%;
+}
+.imageText {
+  position: absolute;
+  text-align: center;
+  left: 560px;
+}
+.imageTextTop {
+  color: #3c2313;
+  font-weight: 400;
+  font-size: 16px;
+}
+.imageTextBottom {
+  background-color: #f0a83e;
+  color: #fff;
+}
+.titleProductos {
+  color: #3c2313;
+  font-weight: 700;
+  font-size: 40px;
+}
+.textoPrecio {
+  color: #f0a83e;
+}
